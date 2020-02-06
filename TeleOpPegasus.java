@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.util.Range;
 
 // Declares name on driver station
 
-@TeleOp(name="teleOpNiki", group="Linear Opmode")
+@TeleOp(name="teleOpPegasus", group="Linear Opmode")
 
 public class TeleOpPegasus extends LinearOpMode {
 
